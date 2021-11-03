@@ -6,3 +6,10 @@ blockquote {
     border: 5px solid rgb(56, 34, 70);
     padding: 10px;
 }
+
+p {
+    width: 250px;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
