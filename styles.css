@@ -1,37 +1,57 @@
-blockquote {
-    float: right;
-    width: 250px;
-    font-size: 130%;
-    margin: 0px 50px 50px 50px;
-    border: 5px solid rgb(56, 34, 70);
-    padding: 10px;
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+
+*, ::after, ::before {
+    box-sizing: border-box;
 }
 
-
-header {
-    width: 99%;
-    height: 100px;
-    float: left;
-    margin: 0 auto;
-    padding: 5px;
-    border: 1px solid red;
-    background-color: yellowgreen;
+html {
+    font-size: 62.5%; /* 10px */
 }
 
-footer {
-    width: 99%;
-    height: 100px;
-    float: left;
-    margin: 0 auto;
-    padding: 5px;
-    border: 1px solid red;
-    background-color: yellowgreen;
+*, header, footer, .div1, .div2, .div3, .div4 {
+    font-size: 2rem;
+    font-family: "Orbitron", serif;
+    font-weight: 400;
+    text-align: center;
 }
-div {
-    width: 49.8%;
-    height: 100px;
+
+header, footer {
+    float: left;
+    height: 300px;
+    width: 100%;
+    border: 2px solid black;
+    background: #a33b20;
+}
+
+.div1 {
+    width: 40%;
+    height: 500px;
     float: left;
     margin: 0 auto;
-    border: 1px solid red;
-    background: yellow;
+    border: 2px solid black;
+    background: #44a1a0;
+}
+.div2 {
+    width: 60%;
+    height: 500px;
+    float: left;
+    margin: 0 auto;
+    border: 2px solid black;
+    background: #44a144;
+}
+.div3 {
+    width: 60%;
+    height: 500px;
+    float: left;
+    margin: 0 auto;
+    border: 2px solid black;
+    background: #91bd17;
+}
+.div4 {
+    width: 40%;
+    height: 500px;
+    float: left;
+    margin: 0 auto;
+    border: 2px solid black;
+    background: #be2b68;
 }
