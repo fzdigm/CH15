@@ -7,9 +7,31 @@ blockquote {
     padding: 10px;
 }
 
-p {
-    width: 250px;
+
+header {
+    width: 99%;
+    height: 100px;
     float: left;
-    margin: 10px;
+    margin: 0 auto;
     padding: 5px;
+    border: 1px solid red;
+    background-color: yellowgreen;
+}
+
+footer {
+    width: 99%;
+    height: 100px;
+    float: left;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid red;
+    background-color: yellowgreen;
+}
+div {
+    width: 49.8%;
+    height: 100px;
+    float: left;
+    margin: 0 auto;
+    border: 1px solid red;
+    background: yellow;
 }
