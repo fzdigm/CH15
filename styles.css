@@ -27,7 +27,6 @@ header, footer {
     width: 40%;
     height: 500px;
     float: left;
-    margin: 0 auto;
     border: 2px solid black;
     background: #ff0000;
 }
@@ -35,7 +34,6 @@ header, footer {
     width: 60%;
     height: 500px;
     float: left;
-    margin: 0 auto;
     border: 2px solid black;
     background: #00ff00;
 }
@@ -43,7 +41,6 @@ header, footer {
     width: 60%;
     height: 500px;
     float: left;
-    margin: 0 auto;
     border: 2px solid black;
     background: #0000ff;
 }
@@ -51,7 +48,6 @@ header, footer {
     width: 40%;
     height: 500px;
     float: left;
-    margin: 0 auto;
     border: 2px solid black;
     background: #ffff00;
 }
