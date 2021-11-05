@@ -11,7 +11,7 @@ html {
 *, header, footer, .div1, .div2, .div3, .div4 {
     font-size: 2rem;
     font-family: "Orbitron", serif;
-    font-weight: 500;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -54,10 +54,10 @@ header, footer {
 
 @media (min-width:581px) and (max-width:868px) {
     .div1 {
-        width: 50%;
+        width: 35%;
     }
     .div2 {
-        width: 50%;
+        width: 65%;
     }
     .div3 {
         width: 50%;
