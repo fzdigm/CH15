@@ -24,28 +24,28 @@ header, footer {
 }
 
 .div1 {
-    width: 40%;
+    width: 20%;
     height: 500px;
     float: left;
     border: 2px solid black;
     background: #ff0000;
 }
 .div2 {
-    width: 60%;
+    width: 40%;
     height: 500px;
     float: left;
     border: 2px solid black;
     background: #00ff00;
 }
 .div3 {
-    width: 60%;
+    width: 20%;
     height: 500px;
     float: left;
     border: 2px solid black;
     background: #0000ff;
 }
 .div4 {
-    width: 40%;
+    width: 20%;
     height: 500px;
     float: left;
     border: 2px solid black;
