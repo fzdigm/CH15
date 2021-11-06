@@ -28,28 +28,28 @@ header, footer {
     height: 500px;
     float: left;
     border: 2px solid black;
-    background: #ff0000;
+    background: #ffff00;
 }
 .div2 {
     width: 40%;
     height: 500px;
     float: left;
     border: 2px solid black;
-    background: #00ff00;
+    background: #00ffff;
 }
 .div3 {
     width: 20%;
     height: 500px;
     float: left;
     border: 2px solid black;
-    background: #0000ff;
+    background: #ff00ff;
 }
 .div4 {
     width: 20%;
     height: 500px;
     float: left;
     border: 2px solid black;
-    background: #ffff00;
+    background: #ff0000;
 }
 
 @media (min-width:581px) and (max-width:868px) {
